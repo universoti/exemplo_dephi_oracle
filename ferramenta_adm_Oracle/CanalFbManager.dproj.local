@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/14 19:28:46.000.270,=C:\Users\erick\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/19 19:08:52.000.798,=C:\Users\erick\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/19 19:11:35.000.116,B:\PROJETOS_ERICK_2019\ferramenta_adm_fb\frmsqleditor.dfm=C:\Users\erick\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/08/19 19:11:35.000.116,B:\PROJETOS_ERICK_2019\ferramenta_adm_fb\frmsqleditor.pas=C:\Users\erick\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/19 19:11:49.000.214,B:\PROJETOS_ERICK_2019\ferramenta_adm_fb\CanalFbManager.dproj=C:\Users\erick\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
