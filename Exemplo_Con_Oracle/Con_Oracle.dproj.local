@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/14 19:28:46.000.270,=C:\Users\erick\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/07 17:43:26.000.358,=C:\Users\erick\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/06 18:14:53.000.165,=C:\Users\erick\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/07 17:50:52.000.746,=C:\Users\erick\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/19 13:37:53.841,=C:\Users\erick\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/19 13:43:38.849,B:\PROJETOS_ERICK_2019\Exemplo_Con_Oracle\FrmOracle.pas=C:\Users\erick\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/19 13:43:38.849,B:\PROJETOS_ERICK_2019\Exemplo_Con_Oracle\FrmOracle.dfm=C:\Users\erick\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/07/19 13:43:51.955,B:\PROJETOS_ERICK_2019\Exemplo_Con_Oracle\Con_Oracle.dproj=C:\Users\erick\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
