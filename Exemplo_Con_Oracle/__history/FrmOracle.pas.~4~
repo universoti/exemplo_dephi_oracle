@@ -17,7 +17,6 @@ type
     ClientDataSet1nome: TStringField;
     ClientDataSet1cidade: TStringField;
     DataSource1: TDataSource;
-    Label1: TLabel;
     procedure Button1Click(Sender: TObject);
   private
     { Private declarations }
